@@ -17,8 +17,8 @@
 - After the yo-yo begins to climb up, the yo-yo string is tangent to the right side of the central shaft of the yo-yo
 
 ## Objectives
-- Describe the linear motion of the yo-yo system
-- Describe the angular motion of the yo-yo system
+- Describe the linear motion of the yo-yo system by building the linear kinematic equations
+- Describe the angular motion of the yo-yo system by building the angular kinematic equations
 
 ## Step Overview
 During the motion of the yo-yo, four moments in time, or steps, have been identified.
