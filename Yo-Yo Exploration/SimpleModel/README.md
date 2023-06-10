@@ -12,17 +12,21 @@
   - $frac{1}{2}(2 \pi r_{1})$ is used to account for the half wrap around the finger that arises from the slip knot style of the top of the yo-yo string
   - $(2 \pi r_{2})$ is the circumference of the central shaft of the yo-yo
   - $d$ is the length of yo-yo string between $y=0$ and the top of the central shaft of the yo-yo
+- The direction of rotation for the yo-yo is *clockwise*
+- The yo-yo string is initially tangent to the left side of the central shaft of the yo-yo
+- After the yo-yo begins to climb up, the yo-yo string is tangent to the right side of the central shaft of the yo-yo
 
 ## Step Overview
-During the motion of the yo-yo, four moments in time, or steps, have been identified. The first is the moment before releasing the yo-yo, while it is stationary at the top. The second is a moment in time that the yo-yo is traveling down, but before it reaches its lowest point. The third is the moment the yo-yo has reached its lowest point and is said to be "sleeping" momentarily. The fourth is a moment when the yo-yo is traveling back up towards the hand.
+During the motion of the yo-yo, four moments in time, or steps, have been identified.
 
 ### Step One
 This is the moment in time right before the yo-yo begins to drop. For now, there is no force holding it up at ${y_{max}}$ but setting ${t=0}$ restricts movement. 
 
 ### Step Two
-
+This is a moment in time when the yo-yo is traveling down, away from the cylinder.
 
 ### Step Three
-
+This is the moment in time when the yo-yo is said to be "sleeping" at the bottom of the string.
 
 ## Step Four
+This is a moment in time when the yo-yo is traveling up, toward the cylinder and against gravity.
