@@ -1,9 +1,9 @@
 # Step One
 
-<img src="Step1.png" alt="Step 1" width="50%">
+<img src="Step1.png" alt="Step 1" width="30%">
 
 This is the yo-yo system at $t=0$.
 
-![Step 1 worked](Step1Worked.png)
+<img src="Step1Worked.png" alt="Step 1 Worked" width="30%">
 
 This is a more mathematical snapshot of $t=0$. 
