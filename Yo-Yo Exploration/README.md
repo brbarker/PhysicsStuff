@@ -4,7 +4,7 @@ This is an exploration of the physics at work for a simple model of a yo-yo.
 ## Simple Model
 The Simple Model (SM) is meant to be a starting point. As much as possible is set to a constant value and/or approximated.
 
-  ### Definitions
+  ### SM Definitions
   - $r_1$ is the radius of the cylinder used to represent the "finger" around which the top loop of the yo-yo string is wrapped
   - $r_2$ is the radius of the central shaft of the yo-yo around which the bottom loop of the yo-yo string is wrapped
   - $r_3$ is the total radius of the yo-yo, from the center of the central axis, to the outer edge of the yo-yo
