@@ -1,6 +1,6 @@
 # Step One
 
-![Step 1 diagram](Step1.png)
+<img src="Step1.png" alt="Step 1" width="50%">
 
 This is the yo-yo system at $t=0$.
 
