@@ -23,14 +23,14 @@
 ## Step Overview
 During the motion of the yo-yo, four moments in time, or steps, have been identified.
 
-### Step One
+### [Step One](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%201)
 This is the moment in time right before the yo-yo begins to drop. For now, there is no force holding it up at ${y_{max}}$ but setting ${t=0}$ restricts movement. 
 
-### Step Two
+### [Step Two](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%202)
 This is a moment in time when the yo-yo is traveling down, away from the cylinder.
 
-### Step Three
+### [Step Three](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%203)
 This is the moment in time when the yo-yo is said to be "sleeping" at the bottom of the string.
 
-## Step Four
+### [Step Four](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%204)
 This is a moment in time when the yo-yo is traveling up, toward the cylinder and against gravity.
