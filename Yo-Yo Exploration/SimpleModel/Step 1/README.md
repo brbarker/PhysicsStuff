@@ -23,7 +23,7 @@ d=\sqrt{r_{2}^2+r_{3}^2} & (4)
 
 where $d$ is the hypotenuse in a right triangle with short leg $r_{2}$ and long leg $r_{3}$ as shown below.
 
-<img src="Step1Trig.png" alt="Step 1" width="30%">
+<img src="Step1Trig.png" alt="Step 1" width="20%">
 
 The angle $\theta$ will sweep from left to right, always having a maximum short l
 
