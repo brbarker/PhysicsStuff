@@ -1,4 +1,7 @@
 # Simple Model (SM)
+
+Table of Contents
+- [Step One](#step-one)
 ## SM Definitions
 - $r_1$ is the radius of the cylinder used to represent the "finger" around which the top loop of the yo-yo string is wrapped
 - $r_2$ is the radius of the central shaft of the yo-yo around which the bottom loop of the yo-yo string is wrapped
