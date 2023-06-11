@@ -12,9 +12,9 @@ Now that the yo-yo is in motion, the equations in this moment will be a lot more
 $g$.
 
 $$\begin{gather*}
-a(t)=g & (5)\\
-v(t)=\int a(t)dt=\int gdt =gt+c_{1} & (6)\\
-y(t)=\int v(t)dt= \int (gt+c_{1})dt=\frac{1}{2}gt^{2}+c_{1}t+c_{2} & (7)\\
+\vec{a}(t)=g & (5)\\
+\vec{v}(t)=\int \vec{a}(t)dt=\int gdt =gt+c_{1} \\
+y(t)=\int \vec{v}(t)dt= \int (gt+c_{1})dt=\frac{1}{2}gt^{2}+c_{1}t+c_{2} \\
 \end{gather*}$$
 
 These equations are the linear kinematic equations in terms of the vertical position, $y$, with a few constants, namely
@@ -34,18 +34,18 @@ $y_{i}=y_{max}$.
 
 Now that
 $c_{1}$ and
-$c_{2}$ have been found, they can be substituted back into equations
-$6$ and
-$7$, keeping in mind that
-$v_{i}=0$.
+$c_{2}$ have been found, they can be substituted back into the equations for 
+$\vec{v}(t)$ and
+$y(t)$ keeping in mind that
+$v_{i}=0$ because there has been no throw of the yo-yo.
 
 $$\begin{gather*}
-v(t)=gt+c_{1} \\
+\vec{v}(t)=gt+c_{1} \\
 =c_{1}+gt \\
-=v_{i}+gt=gt & (6)\\
+=\vec{v}_{i}+gt=gt & (6)\\
 \\
 y(t)=\frac{1}{2}gt^{2}+c_{1}t+c_{2} \\
 =c_{2}+c_{1}t+\frac{1}{2}gt^{2} \\
-=y_{i}+v_{i}t+\frac{1}{2}gt^{2} \\
+=y_{i}+\vec{v}_{i}t+\frac{1}{2}gt^{2} \\
 =y_{max}+\frac{1}{2}gt^{2} & (7)\\
 \end{gather*}$$
