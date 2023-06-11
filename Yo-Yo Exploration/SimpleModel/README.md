@@ -9,7 +9,7 @@
 - $g$ is the acceleration due to gravity
 - $l$ is the total length of the yo-yo string, including the wraps around the "finger" and the central axis of the yo-yo. That is, $l=(2 \pi r_{1})+\frac{1}{2}(2 \pi r_{1})+(2 \pi r_{2})+d$
   - $(2 \pi r_{1})$ is the circumference of the "finger" cylinder
-  - $frac{1}{2}(2 \pi r_{1})$ is used to account for the half wrap around the finger that arises from the slip knot style of the top of the yo-yo string
+  - $\frac{1}{2}(2 \pi r_{1})$ is used to account for the half wrap around the finger that arises from the slip knot style of the top of the yo-yo string
   - $(2 \pi r_{2})$ is the circumference of the central shaft of the yo-yo
   - $d$ is the length of yo-yo string between $y=0$ and the top of the central shaft of the yo-yo
 - The direction of rotation for the yo-yo is *clockwise*
