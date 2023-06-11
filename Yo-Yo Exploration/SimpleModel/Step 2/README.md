@@ -49,9 +49,3 @@ y(t)=\frac{1}{2}gt^{2}+c_{1}t+c_{2} \\
 =y_{i}+v_{i}t+\frac{1}{2}gt^{2} \\
 =y_{max}+\frac{1}{2}gt^{2} & (7)\\
 \end{gather*}$$
-
-
-
-
-
-##### [Step Three](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%203)

@@ -32,6 +32,3 @@ $r_{3}$ as shown below.
 The angle
 $\theta$ will sweep from left to right, with a maximum short leg magnitude of no more than
 $r_2$ either to the left or to the right. 
-
-
-##### [Step Two](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%202)

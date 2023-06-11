@@ -24,5 +24,3 @@ l=(2 \pi r_{1})+\frac{1}{2}(2 \pi r_{1})+(2 \pi r_{2})+d
 \end{gather*}$$
 
 As stated in the Definitions section of the SM Overview, the expression above is designed to account for the major lengths of string used in the system. The term "major lengths" is used to illustrate that no effort has been made to account for the lengths of string used to tie knots. That is, this expression accounts for all lengths of string *outside* any knots.
-
-##### [Step Four](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%204)
