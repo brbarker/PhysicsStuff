@@ -1,7 +1,4 @@
 # Simple Model (SM)
-
-Table of Contents
-- [Step One](#step-one)
 ## SM Definitions
 - $r_1$ is the radius of the cylinder used to represent the "finger" around which the top loop of the yo-yo string is wrapped
 - $r_2$ is the radius of the central shaft of the yo-yo around which the bottom loop of the yo-yo string is wrapped
@@ -15,6 +12,8 @@ Table of Contents
 - The direction of rotation for the yo-yo in this study is chosen to be *clockwise*
 - The yo-yo string is initially tangent to the left side of the central shaft of the yo-yo when wound up
 - After the yo-yo begins to climb from the bottom, the yo-yo string is tangent to the right side of the central shaft of the yo-yo
+- The yo-yo is assumed to be a fixed-axle design with two thick, circular disks connected through their rotational axes by a smooth cylinder
+  - The cylinder is very smooth to reduce friction, however friction is *not* ignored and will play a role.
 
 ## Objectives
 - Explore one period of a yo-yo's path (once down and once back up)

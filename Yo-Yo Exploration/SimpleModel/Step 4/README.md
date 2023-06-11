@@ -40,4 +40,6 @@ y(t)=c_{5}+c_{4}t+\frac{1}{2}t^2(g+c_{3}) \\
 where all that is known now is that
 $c_{3} > 0$.
 
-## Investigation of c3
+## Investigation of $c_{3}$
+The constant
+$c_{3}$ is some modifier to the acceleration term. It could be torque. 
