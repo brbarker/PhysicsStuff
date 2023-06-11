@@ -4,8 +4,25 @@
 
 <img src="Step3Worked.png" alt="Step 1" width="40%">
 
+This is the yo-yo system at its lowest point. If the yo-yo stays here, it is said to be "sleeping". The *top* image is a general view of the system and the *bottom* image is a more mathematical view of the system.
 
+## Linear Kinematics
+Just like at the top of the path in Step 1, there is no linear movement. That makes the kinematics fairly simple
 
+$$\begin{gather*}
+a(t)=0 & (8) \\
+v(t)=0 & (9) \\
+y(t)=y_{min}=d+r_{2} & (10) \\
+\end{gather*}$$
 
+Equation $10$ has been written this way to show it in terms of variables that have already been assigned. Here, $d$ is at it's maximum while $y$ is at its minimum; a pattern that is reversed when $d$ is at its minimum.
+
+At this moment in time, the entire length of the yo-yo string is being used. This makes it easy to write an expression for the length of the string:
+
+$$\begin{gather*}
+l=(2 \pi r_{1})+\frac{1}{2}(2 \pi r_{1})+(2 \pi r_{2})+d
+\end{gather*}$$
+
+As stated in the Definitions section of the SM Overview, the expression above is designed to account for the major lengths of string used in the system. The term "major lengths" is used to illustrate that no effort has been made to account for the lengths of string used to tie knots. That is, this expression accounts for all lengths of string *outside* any knots.
 
 ##### [Step Four](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%204)

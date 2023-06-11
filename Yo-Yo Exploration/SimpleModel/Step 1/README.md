@@ -11,8 +11,8 @@ $t=0$. The *top* image is a general diagram and the *bottom* image is a more mat
 The yo-yo hasn't started to move yet, so we're free to say
 
 $$\begin{gather*}
-v(t)=0 & (1) \\
-a(t)=0 & (2) \\
+a(t)=0 & (1) \\
+v(t)=0 & (2) \\
 y(t)=y_{max}=r_{3} & (3)
 \end{gather*}$$
 
@@ -34,4 +34,4 @@ $\theta$ will sweep from left to right, with a maximum short leg magnitude of no
 $r_2$ either to the left or to the right. 
 
 
-#### [Step Two](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%202)
+##### [Step Two](https://github.com/brbarker/PhysicsStuff/tree/fcb599745a6a8ef0bb9c15524de582a60e431273/Yo-Yo%20Exploration/SimpleModel/Step%202)
