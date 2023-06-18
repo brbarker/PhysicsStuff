@@ -42,4 +42,4 @@ $c_{3} > 0$.
 
 ## Investigation of $c_{3}$
 The constant
-$c_{3}$ is some modifier to the acceleration term. It could be torque. 
+$c_{3}$ is some modifier to the acceleration term.
