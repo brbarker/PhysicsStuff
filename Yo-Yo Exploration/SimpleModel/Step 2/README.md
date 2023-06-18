@@ -40,6 +40,7 @@ $y(t)$ keeping in mind that
 $v_{i}=0$ because there has been no throw of the yo-yo.
 
 $$\begin{gather*}
+Hello\\
 \vec{v}(t)=gt+c_{1} \\
 =c_{1}+gt \\
 =\vec{v}_{i}+gt=gt & (6)\\
