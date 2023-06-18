@@ -32,3 +32,5 @@ $r_{3}$ as shown below.
 The angle
 $\theta$ will sweep from left to right, with a maximum short leg magnitude of no more than
 $r_2$ either to the left or to the right.
+
+## Angular Kinematics

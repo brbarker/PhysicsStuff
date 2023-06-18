@@ -32,3 +32,5 @@ l=(2 \pi r_{1})+\frac{1}{2}(2 \pi r_{1})+(2 \pi r_{2})+\frac{1}{2}(2 \pi r_{2})+
 The string length expression is designed to account for the major lengths of string used in the system. The term "major lengths" is used to illustrate that no effort has been made to account for the lengths of string used to tie knots. That is, this expression accounts for all lengths of string *outside* any knots. The image below is meant to be a graphical representation of the terms in the expression.
 
 <img src="Step3StringExpression.png" alt="Step 1" width="80%">
+
+## Angular Kinematics
