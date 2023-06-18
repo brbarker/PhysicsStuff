@@ -33,8 +33,8 @@ The last constant,
 $c_{3}$ is going to require some thought and further investigation to determine. It is a modifier of the acceleration, which makes sense because the yo-yo has to be accelerating *faster* than the value of g in order to climb the string again.
 
 $$\begin{gather*}
-y(t)=c_{5}+c_{4}t+\frac{1}{2}t^2(g+c_{3}) \\
-=y_{min}+\vec{v}_{i}t+\frac{1}{2}t^2(g+c_{3}) \\
+y(t)=c_{5}+c_{4}t+\frac{1}{2}t^2(g+c_{3})\\
+=y_{min}+\vec{v}_{i}t+\frac{1}{2}t^2(g+c_{3})\\
 \end{gather*}$$
 
 where all that is known now is that
