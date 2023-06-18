@@ -49,3 +49,6 @@ y(t)=\frac{1}{2}gt^{2}+c_{1}t+c_{2} \\
 =y_{i}+\vec{v}_{i}t+\frac{1}{2}gt^{2} \\
 =y_{max}+\frac{1}{2}gt^{2} & (7)\\
 \end{gather*}$$
+
+## Angular Kinematics
+
